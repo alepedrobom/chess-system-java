@@ -62,5 +62,5 @@ public class ChessMatch {
 		board.placePiece(new Pawn(board, Color.BLACK), new Position(6,5));
 		board.placePiece(new Pawn(board, Color.BLACK), new Position(6,6));
 		board.placePiece(new Pawn(board, Color.BLACK), new Position(6,7));
-}
+	}
 }
